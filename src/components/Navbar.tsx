@@ -11,14 +11,18 @@ function Navbar({ className }: { className?: string }) {
     const [active, setActive] = useState<string | null>(null);
   return (
     <div  className={cn("fixed top-5 inset-x-0 max-w-2xl mx-auto z-50", className)}>
-
+{/* fixed top-5 flex items-center justify-between p-4  z-50 */}
 {/* fixed top-5 inset-x-0 max-w-2xl mx-auto z-50 */}
 {/* text-black dark:text-white */}
 
-        <Logo /> 
+
+<Logo />
+
+       
 
         <Menu setActive={setActive}>
-            
+
+        
         
                 <Link href={"/"}>
                     <MenuItem setActive={setActive} active={'#'} item="Home">

@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "fundamentals",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258224/_DSC9425-Enhanced-NR_tmspep.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "for-beginners",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258224/_DSC9359-Enhanced-NR_lkjzco.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "advanced-techniques",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258222/_DSC9365-Enhanced-NR_ywu6ro.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "mastery",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258221/_DSC9379-Enhanced-NR_shj6kh.jpg"
+      },
+      {
+        "id": 5,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "improvisation",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258219/_DSC9432-Enhanced-NR_kjzdtx.jpg"
+      },
+      {
+        "id": 6,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "production-fundamentals",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258214/_DSC9459-Enhanced-NR_t58j9w.jpg"
+      },
+      {
+        "id": 7,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258208/_DSC9482-Enhanced-NR_l2mrj6.jpg"
+      },
+      {
+        "id": 8,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "electronic",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258208/_DSC9484-Enhanced-NR_pid0jw.jpg"
+      },
+      {
+        "id": 9,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "classical-history",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258208/_DSC9473-Enhanced-NR_lup5ls.jpg"
+      },
+      {
+        "id": 10,
+        "title": "lorem ipsum dolor sit amet",
+        "slug": "techniques",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://res.cloudinary.com/dzatws0ft/image/upload/v1739258225/_DSC9341_xzlgq7.jpg"
+      }
+    ]
+  }
+  
